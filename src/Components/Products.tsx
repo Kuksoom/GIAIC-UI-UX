@@ -1,4 +1,4 @@
-import { ShoppingCart, Heart, Search, ChevronRight } from 'lucide-react';
+import { ShoppingCart, Heart, Search,} from 'lucide-react';
 import Image from 'next/image';
 import sofa1 from "../../public/images/img3.png"
 import sofa2 from "../../public/images/img4.png"
